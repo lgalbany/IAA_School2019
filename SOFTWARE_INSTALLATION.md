@@ -58,13 +58,13 @@ Most of the necessary python modules already come by default with Anaconda: `num
   - Launch python and test the different modules:
   
   		import numpy
-  		print numpy.__version__
+  		print(numpy.__version__)
   		import matplotlib
-  		print matplotlib.__version__
+  		print(matplotlib.__version__)
   		import scipy
-  		print scipy.__version__
+  		print(scipy.__version__)
   		import sklearn
-  		print sklearn.__version__
+  		print(sklearn.__version__)
   		
 
 
